@@ -1,12 +1,6 @@
-change to f-1 
-change to master 
-01.commit
-no2.commit
-no3.commit
-no-3.commit
+feat vvdev-1
+10.25
 
-cp-01.commit
-cp-02.commit
 
 # Google Engineering Practices Documentation
 Google has many generalized engineering practices that cover all languages and
